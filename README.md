@@ -12,6 +12,9 @@ WTFPL
 #### WebGL
 #### Rails
 ### Ruby
+* Ruby-Doc.org: Documenting the Ruby Language<br />[http://ruby-doc.org/](http://ruby-doc.org/)
+* The Ruby Toolbox - Know Your Options!<br />[https://www.ruby-toolbox.com/](https://www.ruby-toolbox.com/)
+
 ### Python
 ### C/C++
 #### Pure C
