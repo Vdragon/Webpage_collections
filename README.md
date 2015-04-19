@@ -1,4 +1,7 @@
 # Ｖ字龍的網頁收藏<br />Vdragon's webpage collections
+本專案已被「共享 Web 收藏計劃取代，敬請移駕  
+<https://github.com/Vdragon/Webpage_collections>
+
 ## 授權條款<br />License
 WTFPL
 
